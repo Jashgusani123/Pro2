@@ -1,0 +1,29 @@
+
+.conteinar {
+  background-color: rgb(167, 168, 168);
+  display: flex;
+  margin-left: 10px;
+  padding: 10px;
+  height: 550px;
+  width: 244px;
+  flex-direction: column;
+  flex-wrap: wrap;
+  
+}
+h1{
+  background-color: rgb(7 7 59) !important;
+  color: white;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  border-bottom:2px #fbc75d solid;
+  border-width: 4px;
+  flex-wrap: wrap;
+}
+img{
+  height: 81px;
+  width: 108px;
+  padding: 5px;
+  border-radius: 13px;
+
+}
